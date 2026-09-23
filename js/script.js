@@ -123,14 +123,9 @@ const typingText =
 
 const typingWords = [
 
-    "CSE Student",
-
-    "CCNA Learner",
-
-    "Networking Enthusiast",
-
-    "Python Learner",
-
+    "Frontend Developer",
+    "Full-Stack Developer",
+    "Networking Engineer",
     "Cybersecurity Enthusiast"
 
 ];
